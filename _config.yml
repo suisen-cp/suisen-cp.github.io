@@ -1,0 +1,7 @@
+domain: suisen-cp.github.io
+baseurl: /
+url: https://suisen-cp.github.io
+
+theme: minima
+plugins:
+  - jekyll-feed
